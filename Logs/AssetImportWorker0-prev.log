@@ -1,0 +1,118 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.1f1 (77a89f25062f) revision 7841951'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19043.1110; Version 2009; 64bit' Language: 'tr' Physical Memory: 8156 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+E:\Programlar\Unity\2020.3.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/Programlar/Unity/Projeler/Broken Glass
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55322
+Successfully changed project path to: E:/Programlar/Unity/Projeler/Broken Glass
+E:/Programlar/Unity/Projeler/Broken Glass
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 111.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.1f1 (77a89f25062f)
+[Subsystems] Discovering subsystems at path E:/Programlar/Unity/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/Programlar/Unity/Projeler/Broken Glass/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c81)
+    Vendor:   
+    VRAM:     1977 MB
+    Driver:   27.21.14.6677
+Initialize mono
+Mono path[0] = 'E:/Programlar/Unity/2020.3.1f1/Editor/Data/Managed'
+Mono path[1] = 'E:/Programlar/Unity/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'E:/Programlar/Unity/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56252
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Programlar/Unity/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003414 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 86.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  7.290 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001891 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.126 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.19 seconds
+Refreshing native plugins compatible for Editor in 0.44 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1154 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.2 MB.
+System memory in use after: 59.3 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1608.
+Total: 7.993400 ms (FindLiveObjects: 0.482900 ms CreateObjectMapping: 1.803400 ms MarkObjects: 5.628800 ms  DeleteObjects: 0.073800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/SceneCompleteChecker.cs
+  artifactKey: Guid(0836b7a393daeaa408f6a32798cb53b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SceneCompleteChecker.cs using Guid(0836b7a393daeaa408f6a32798cb53b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82c9d1042bc6961372d10e7632a34f9f') in 0.121198 seconds
+  Import took 0.130851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000600 seconds.
+  path: Assets/Scripts/GlassController.cs
+  artifactKey: Guid(815f9c46addd15140a87be8726842159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GlassController.cs using Guid(815f9c46addd15140a87be8726842159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a768712a3deef5d932e6a987851b6db8') in 0.056401 seconds
+  Import took 0.083025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001025 seconds.
+  path: Assets/Scripts/SavedData.cs
+  artifactKey: Guid(6974d217e82099d4a8d400a9ffcd2a87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/SavedData.cs using Guid(6974d217e82099d4a8d400a9ffcd2a87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b75742e5018ab56bb389a33d2f9ce201') in 0.047413 seconds
+  Import took 0.075580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000892 seconds.
+  path: Assets/Scripts/UIScripts.cs
+  artifactKey: Guid(8e28c4ba5e2bb9e4fb376a6b05804f59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UIScripts.cs using Guid(8e28c4ba5e2bb9e4fb376a6b05804f59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdff9184e451e5248afb3e1e3986a990') in 0.023222 seconds
+  Import took 0.046037 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.70 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 36.2 MB.
+System memory in use after: 36.3 MB.
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 1608.
+Total: 4.821700 ms (FindLiveObjects: 0.465000 ms CreateObjectMapping: 0.149600 ms MarkObjects: 4.161700 ms  DeleteObjects: 0.041800 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
