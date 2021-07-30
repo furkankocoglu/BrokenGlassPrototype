@@ -1,6 +1,6 @@
 # BrokenGlassPrototype
  **3d prototype project to complete broken glass**
 
-![BrokenGlass](BrokenGlass.JPG)
-![ExcellentMessage](ExcellentMessage.JPG)
-![LevelCompleted](LevelCompleted.JPG)
+![BrokenGlass](BrokenGlass.png)
+![ExcellentMessage](ExcellentMessage.png)
+![LevelCompleted](LevelCompleted.png)
